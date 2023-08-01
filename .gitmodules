@@ -5,9 +5,9 @@
 [submodule "MonoPoly"]
 	path = MonoPoly
 	url = https://github.com/cran/MonoPoly
-[submodule "quadprog"]
-	path = quadprog
-	url = https://github.com/cran/quadprog
 [submodule "SimCop"]
 	path = SimCop
 	url = https://github.com/cran/SimCop
+[submodule "quadprog"]
+	path = quadprog
+	url = https://github.com/cran/quadprog
